@@ -1,6 +1,13 @@
 <?php 
 /**
- * git²âÊÔ
+ * git
  */
- echo 'ok';
+class hellword
+{
+    
+    public function a()
+    {
+        
+    }
+}
 ?>
